@@ -1,18 +1,10 @@
 package co.com.supergiros.maven.test;
 
-import static org.junit.Assert.*;
-
 import org.junit.Test;
 
 import co.com.supergiros.demo.Calcular;
 
 public class CalculadoraTest {
-
-	@Test
-	public void test() {
-		fail("Not yet implemented");
-	}
-	
 
 	Calcular app;
 	double a = 5;
